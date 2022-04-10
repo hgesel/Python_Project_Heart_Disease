@@ -44,17 +44,14 @@ peak, Age, fastingBS. Negative relationships with a diagnosis of heart disease i
 As one of the leading causes of morbidity and mortality in the United States, heart disease affects many Americans and their families. The medical community continues to research and prevent heart disease, however, the need for continued, longitudinal studies are needed to further investigate the causes and predictions of heart disease. The data set used for this project used mostly objective results as a predictor and one subjective predictor, chest pain type. Based on the predictors used and the models we created, our methods for predicting heart disease were quite accurate. The most accurate model was KNN at a k value of 19. This is consistent with the general use of KNN as a good predictor for classification. In comparison to KNN, support vector machines, logistic regression and decision trees were next in accuracy respectively. Interestingly KNN for all k values was more accurate than the decision tree. Future analysis including family history, environmental factors, including smoking, secondhand smoke exposure, diet and alcoholism should be included.
 
 #References:
-1. Centers for Disease Control and Prevention. “Heart Disease Facts & Statistics.” Centers for Disease
+1. Centers for Disease Control and Prevention. “Heart Disease Facts & Statistics.” Centers for Disease 
 Control and Prevention, 27 Sept. 2021, www.cdc.gov/heartdisease/facts.htm. Accessed 15 Dec. 2021.
-2. World Health Organization. “Cardiovascular Diseases (CVDs).” Who.int, World Health Organization:
-WHO, 2021, www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds). Accessed 15
+2. World Health Organization. “Cardiovascular Diseases (CVDs).” Who.int, World Health Organization: 
+WHO, 2021, www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds). Accessed 15 
 Dec. 2021.
-3.
-from   .
-4. “Python - How to Count Unique Values in Pandas Column Base on Dictionary Values.” Stack
-Overflow, stackoverflow.com/questions/70369170/how-to-count-unique-values-in-pandas-column-
-base-on-dictionary-values. Accessed 15 Dec. 2021. 5.
- fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved 12/15/2021
-https://www.kaggle.com/fedesoriano/heart-failure-prediction
- Hill J, Timmis A. Exercise tolerance testing. BMJ. 2002;324(7345):1084-1087.
- 
+3. fedesoriano. (September 2021). Heart Failure Prediction Dataset. Retrieved 12/15/2021 
+from https://www.kaggle.com/fedesoriano/heart-failure-prediction.
+4. “Python - How to Count Unique Values in Pandas Column Base on Dictionary Values.” Stack 
+Overflow, stackoverflow.com/questions/70369170/how-to-count-unique-values-in-pandas-columnbase-on-dictionary-values. Accessed 15 Dec. 2021.
+5. Hill J, Timmis A. Exercise tolerance testing. BMJ. 2002;324(7345):1084-1087. 
+doi:10.1136/bmj.324.7345.1084
