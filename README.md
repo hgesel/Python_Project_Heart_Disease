@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction-with-Data-Science
 
-MEMBERS: Pronata Datta, Shun An Chang, Hillary Gesel, Shengqi Ye
+MEMBERS: Hillary Gesel, Pronata Datta, Shun An Chang, Shengqi Ye
 
 GROUP 21 PRESENTATION Video Link: 
 
